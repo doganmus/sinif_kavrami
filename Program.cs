@@ -36,6 +36,8 @@ namespace sinif_kavrami
             calisan2.Departman="Satın Alma";
 
             calisan2.CalisanBilgileri();
+
+
         }
     }
 
